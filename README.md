@@ -1,4 +1,4 @@
-# Portfolio of Certified MVA
+# Portfolio of Certified Medical Virtual Assistant
 
 ## Overview  
 Welcome to my professional portfolio! This repository showcases my skills, certifications, experience, and projects in the field of pain clinic support and healthcare. My goal is to provide a comprehensive view of my professional journey and capabilities.
