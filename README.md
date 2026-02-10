@@ -5,6 +5,8 @@ Welcome to my professional portfolio! This repository showcases my skills, certi
 
 ## Skills  
 - Pain Management Techniques  
+- Patient Care & Support  
+- Medical Billing & Coding  
 - Healthcare Compliance  
 - Critical Thinking & Problem Solving  
 - Excellent Communication Skills  
@@ -12,14 +14,15 @@ Welcome to my professional portfolio! This repository showcases my skills, certi
 - Project Management  
 
 ## Certifications  
-- Certified Medical Virtual Assistant  
+- Certified Pain Management Specialist  
+- CPR & First Aid Certified  
 - HIPAA Compliance Training  
 - [Any other relevant certifications]
 
 ## Experience  
-**Pain Clinic Authorization Support**  
-*Southeat Pain & Spine Care*  
-*January 2025 - Present*  
+**Pain Clinic Coordinator**  
+*Pain Clinic, City, State*  
+*Month Year - Present*  
 - Coordinated patient scheduling and ensured timely follow-ups.  
 - Assisted in developing pain management plans in collaboration with healthcare providers.  
 - Managed patient records while ensuring compliance with HIPAA regulations.  
