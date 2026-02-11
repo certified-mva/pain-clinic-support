@@ -423,14 +423,14 @@ h1 {
   }  
 }  
 /* ===========================  
-   CLINIC / MEDICAL THEME  
+   CLINIC BLUE + GREEN COLORS  
+   (COLOR ONLY)  
    =========================== */  
   
+/* Main background & text */  
 body {  
   background-color: #f8fafc;  
   color: #1f2937;  
-  font-family: 'Inter', Arial, sans-serif;  
-  line-height: 1.6;  
 }  
   
 /* Header & Navigation */  
@@ -440,71 +440,54 @@ header, nav {
   
 header a, nav a {  
   color: #ffffff;  
-  font-weight: 500;  
 }  
   
 header a:hover, nav a:hover {  
-  color: #c7e6ff;  
+  color: #c7f3ee;  
 }  
   
-/* Section Styling */  
-section {  
-  padding: 60px 0;  
-}  
-  
-.section, .card, .box {  
-  background-color: #ffffff;  
-  border-radius: 12px;  
-  box-shadow: 0 8px 24px rgba(15, 76, 129, 0.08);  
-}  
-  
-/* Headings (Trust-focused) */  
-h1, h2, h3, h4 {  
+/* Headings */  
+h1, h2, h3, h4, h5, h6 {  
   color: #0f4c81;  
-  font-weight: 600;  
 }  
   
-/* Buttons – Call to Action */  
+/* Buttons & CTAs */  
 button, .btn, input[type="submit"] {  
-  background-color: #1da1f2;  
+  background-color: #2bb0a6;  
   color: #ffffff;  
-  border-radius: 8px;  
-  padding: 12px 22px;  
-  font-weight: 600;  
-  border: none;  
-  transition: all 0.3s ease;  
 }  
   
 button:hover, .btn:hover, input[type="submit"]:hover {  
-  background-color: #0284c7;  
-  transform: translateY(-1px);  
+  background-color: #239b93;  
 }  
   
-/* Accent Elements */  
-.highlight, .badge {  
-  background-color: #e6f6f5;  
+/* Sections / Cards */  
+section, .section, .card, .box {  
+  background-color: #ffffff;  
+}  
+  
+/* Links */  
+a {  
   color: #2bb0a6;  
-  border-radius: 6px;  
-  padding: 6px 12px;  
 }  
   
-/* Forms – Clean & Trustworthy */  
+a:hover {  
+  color: #239b93;  
+}  
+  
+/* Forms */  
 input, textarea, select {  
-  border: 1px solid #d1d5db;  
-  border-radius: 6px;  
-  padding: 12px;  
-  font-size: 15px;  
+  border-color: #d1d5db;  
 }  
   
 input:focus, textarea:focus, select:focus {  
-  border-color: #1da1f2;  
-  outline: none;  
-  box-shadow: 0 0 0 3px rgba(29, 161, 242, 0.15);  
+  border-color: #2bb0a6;  
 }  
   
-/* Icons / Info Blocks */  
-.icon, .icon-box {  
+/* Accent / icons */  
+.icon, .highlight, .badge {  
   color: #2bb0a6;  
+  background-color: #e6f6f5;  
 }  
   
 /* Footer */  
@@ -514,7 +497,7 @@ footer {
 }  
   
 footer a {  
-  color: #c7e6ff;  
+  color: #c7f3ee;  
 }  
   
 footer a:hover {  
