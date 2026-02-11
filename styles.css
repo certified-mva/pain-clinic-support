@@ -422,3 +422,101 @@ h1 {
     font-size: 34px;  
   }  
 }  
+/* ===========================  
+   CLINIC / MEDICAL THEME  
+   =========================== */  
+  
+body {  
+  background-color: #f8fafc;  
+  color: #1f2937;  
+  font-family: 'Inter', Arial, sans-serif;  
+  line-height: 1.6;  
+}  
+  
+/* Header & Navigation */  
+header, nav {  
+  background-color: #0f4c81;  
+}  
+  
+header a, nav a {  
+  color: #ffffff;  
+  font-weight: 500;  
+}  
+  
+header a:hover, nav a:hover {  
+  color: #c7e6ff;  
+}  
+  
+/* Section Styling */  
+section {  
+  padding: 60px 0;  
+}  
+  
+.section, .card, .box {  
+  background-color: #ffffff;  
+  border-radius: 12px;  
+  box-shadow: 0 8px 24px rgba(15, 76, 129, 0.08);  
+}  
+  
+/* Headings (Trust-focused) */  
+h1, h2, h3, h4 {  
+  color: #0f4c81;  
+  font-weight: 600;  
+}  
+  
+/* Buttons – Call to Action */  
+button, .btn, input[type="submit"] {  
+  background-color: #1da1f2;  
+  color: #ffffff;  
+  border-radius: 8px;  
+  padding: 12px 22px;  
+  font-weight: 600;  
+  border: none;  
+  transition: all 0.3s ease;  
+}  
+  
+button:hover, .btn:hover, input[type="submit"]:hover {  
+  background-color: #0284c7;  
+  transform: translateY(-1px);  
+}  
+  
+/* Accent Elements */  
+.highlight, .badge {  
+  background-color: #e6f6f5;  
+  color: #2bb0a6;  
+  border-radius: 6px;  
+  padding: 6px 12px;  
+}  
+  
+/* Forms – Clean & Trustworthy */  
+input, textarea, select {  
+  border: 1px solid #d1d5db;  
+  border-radius: 6px;  
+  padding: 12px;  
+  font-size: 15px;  
+}  
+  
+input:focus, textarea:focus, select:focus {  
+  border-color: #1da1f2;  
+  outline: none;  
+  box-shadow: 0 0 0 3px rgba(29, 161, 242, 0.15);  
+}  
+  
+/* Icons / Info Blocks */  
+.icon, .icon-box {  
+  color: #2bb0a6;  
+}  
+  
+/* Footer */  
+footer {  
+  background-color: #0f4c81;  
+  color: #ffffff;  
+}  
+  
+footer a {  
+  color: #c7e6ff;  
+}  
+  
+footer a:hover {  
+  color: #ffffff;  
+}  
