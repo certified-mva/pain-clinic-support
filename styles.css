@@ -61,7 +61,7 @@ a:hover {
   position: sticky;  
   top: 0;  
   z-index: 50;  
-  background: rgba(255,255,255,.85);  
+  background: rgba(255,255,255,.88);  
   backdrop-filter: blur(10px);  
   border-bottom: 1px solid var(--border);  
   transition: box-shadow .2s ease;  
@@ -86,7 +86,7 @@ a:hover {
   display: grid;  
   place-items: center;  
   border: 1px solid var(--border);  
-  background: linear-gradient(180deg,#fff,#f3f6ff);  
+  background: linear-gradient(180deg,#ffffff,#eef6f8);  
   font-weight: 900;  
 }  
   
@@ -99,7 +99,7 @@ a:hover {
   padding: 6px 12px;  
   border-radius: 12px;  
   background: var(--accentSoft);  
-  border: 1px solid #cfe0ff;  
+  border: 1px solid #c9e2e8;  
   font-size: 14px;  
   font-weight: 900;  
   color: var(--accent);  
@@ -107,7 +107,7 @@ a:hover {
   
 .nav-btn:hover {  
   background: var(--accent);  
-  color: #fff;  
+  color: #ffffff;  
   text-decoration: none;  
 }  
   
@@ -120,7 +120,7 @@ a:hover {
   padding: 10px 14px;  
   border-radius: 14px;  
   background: var(--accent);  
-  color: #fff;  
+  color: #ffffff;  
   font-weight: 900;  
 }  
   
@@ -130,8 +130,8 @@ a:hover {
 .hero {  
   padding: 62px 0 22px;  
   background:  
-    radial-gradient(800px 420px at 10% -10%, rgba(30,78,95,.12), transparent 60%),  
-    radial-gradient(900px 520px at 90% 10%, rgba(30,78,95,.10), transparent 55%);  
+    radial-gradient(800px 420px at 10% -10%, rgba(30,78,95,.14), transparent 60%),  
+    radial-gradient(900px 520px at 90% 10%, rgba(30,78,95,.12), transparent 55%);  
 }  
   
 .hero-wrap {  
@@ -149,7 +149,7 @@ a:hover {
 .badge {  
   padding: 8px 12px;  
   border-radius: 999px;  
-  border: 1px solid #cfe0ff;  
+  border: 1px solid #c9e2e8;  
   background: var(--accentSoft);  
   font-weight: 900;  
   font-size: 12px;  
@@ -173,14 +173,14 @@ h1 {
   padding: 12px 14px;  
   border-radius: 14px;  
   border: 1px solid var(--border);  
-  background: #fff;  
+  background: #ffffff;  
   font-weight: 900;  
   box-shadow: var(--shadow2);  
 }  
   
 .btn.primary {  
   background: var(--accent);  
-  color: #fff;  
+  color: #ffffff;  
 }  
   
 .btn.small {  
@@ -203,7 +203,7 @@ h1 {
 }  
   
 .metric {  
-  background: #fff;  
+  background: #ffffff;  
   padding: 14px;  
   border-radius: var(--r);  
   border: 1px solid var(--border);  
@@ -271,7 +271,7 @@ h1 {
 }  
   
 .card {  
-  background: #fff;  
+  background: #ffffff;  
   border-radius: 18px;  
   border: 1px solid var(--border);  
   padding: 22px;  
@@ -297,7 +297,7 @@ h1 {
    PROFILE CARD  
 ================================ */  
 .profile-card {  
-  background: #fff;  
+  background: #ffffff;  
   border-radius: 22px;  
   padding: 18px;  
   border: 1px solid var(--border);  
@@ -327,7 +327,7 @@ h1 {
 }  
   
 .contact-box {  
-  background: #fff;  
+  background: #ffffff;  
   padding: 22px;  
   border-radius: 18px;  
   border: 1px solid var(--border);  
@@ -346,7 +346,7 @@ h1 {
 .footer {  
   padding: 40px 0;  
   border-top: 1px solid var(--border);  
-  background: #fff;  
+  background: #ffffff;  
 }  
   
 .foot {  
