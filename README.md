@@ -1,51 +1,38 @@
-# Certified Medical Virtual Assistant (Portfolio)
+# VANVAN MATUNHAY
+**Prior Authorization Specialist – Interventional Pain Management Practice**
 
-## Overview  
-Welcome to my professional portfolio! This repository showcases my skills, certifications, experience, and projects in the field of pain clinic support and healthcare. My goal is to provide a comprehensive view of my professional journey and capabilities.
+HIPAA-Certified | US Healthcare | Remote (US Time Zone Aligned)
 
-## Skills  
-- Pain Management Techniques  
-- Patient Care & Support  
-- Medical Billing & Coding  
-- Healthcare Compliance  
-- Critical Thinking & Problem Solving  
-- Excellent Communication Skills  
-- Team Collaboration  
-- Project Management  
+📍 Cebu City, Philippines | 📧 vanvanmatunhay@gmail.com | 📞 +63 991 770 6058
 
-## Certifications  
-- Certified Pain Management Specialist  
-- CPR & First Aid Certified  
-- HIPAA Compliance Training  
-- [Any other relevant certifications]
+---
 
-## Experience  
-**Pain Clinic Coordinator**  
-*Pain Clinic, City, State*  
-*Month Year - Present*  
-- Coordinated patient scheduling and ensured timely follow-ups.  
-- Assisted in developing pain management plans in collaboration with healthcare providers.  
-- Managed patient records while ensuring compliance with HIPAA regulations.  
-  
-**Patient Care Technician**  
-*Hospital/Clinic, City, State*  
-*Month Year - Month Year*  
-- Provided direct patient care and support within a fast-paced healthcare environment.  
-- Assisted in monitoring patient vitals and reporting changes to medical staff.
+## OVERVIEW
 
-## Projects  
-- **Patient Management System**  
-  A project aimed at creating a comprehensive system for managing patient records and appointments efficiently. 
-  
-- **Pain Management Awareness Campaign**  
-  Developed and executed an awareness campaign focusing on pain management techniques and available support resources.
+I'm a **Prior Authorization Specialist** dedicated to helping Interventional Pain Management clinics streamline insurance approvals and eliminate authorization delays. With 2+ years of US healthcare experience and HIPAA certification, I manage end-to-end prior authorizations across Medicare, Medicaid, and commercial payers.
 
-## Contact Information  
-- Email: certified-mva@example.com  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- GitHub: [certified-mva](https://github.com/certified-mva)  
+**My Mission:** Stop insurance denials. Accelerate procedure approvals. Keep clinics running smoothly.
 
----  
-*Last updated: 2026-02-10 20:44:50 UTC*  
+---
 
-Feel free to reach out for collaboration or inquiries!
+## KEY QUALIFICATIONS
+
+✅ **95%+ Initial Authorization Approval Rate**  
+✅ **24–48-Hour Average Submission Turnaround**  
+✅ **30–40% Reduction in Denials** through LCD/NCD-aligned documentation  
+✅ **100% HIPAA-Compliant Workflows**  
+✅ **Expert in Medicare, Medicaid & Commercial Payers**  
+✅ **CoverMyMeds, Availity & Multiple Payer Portal Experience**  
+
+---
+
+## CONTACT & CONNECT
+
+📧 **Email:** vanvanmatunhay@gmail.com  
+📞 **Phone:** +63 991 770 6058  
+📍 **Location:** Cebu City, Philippines (Remote, US Hours)  
+🔗 **GitHub:** [certified-mva](https://github.com/certified-mva)  
+
+---
+
+*Looking to strengthen your prior authorization process? Let's connect!*
