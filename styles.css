@@ -1,27 +1,24 @@
 
-:root{  
-  --bg:#ffffff;  
-  --ink:#0f172a;  
-  --muted:#475569;  
-  --muted2:#64748b;  
+:root {  
+  /* Base surfaces */  
+  --bg: #f8fafc;  
+  --ink: #0f172a;  
+  --muted: #475569;  
+  --muted2: #64748b;  
   
-  --border:#e7e9f2;  
-  --soft:#f7f8fb;  
+  /* Borders & surfaces */  
+  --border: #e5e7eb;  
+  --soft: #f1f5f9;  
   
-  --accent:#2563eb;  
-  --accentSoft:#eff6ff;  
+  /* Medical accent */  
+  --accent: #1e4e5f;  
+  --accentSoft: #e6f1f4;  
   
-  /* ✅ NEW: Blue–Green Button Gradient */  
-  --btnBlueGreen:  
-    linear-gradient(  
-      135deg,  
-      #2563eb 0%,  
-      #1e88e5 45%,  
-      #14b8a6 100%  
-    );  
+  /* Shadows */  
+  --shadow: 0 18px 40px rgba(2, 6, 23, 0.10);  
+  --shadow2: 0 12px 26px rgba(2, 6, 23, 0.08);  
   
-  --shadow: 0 14px 32px rgba(2,6,23,.08);  
-  --shadow2: 0 10px 22px rgba(2,6,23,.06);  
+  /* Radius */  
   --r: 18px;  
 }  
 
