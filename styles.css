@@ -1,6 +1,7 @@
 
 :root{  
   --bg:#f8fafc;  
+  
   --ink:#0f172a;  
   --muted:#475569;  
   --muted2:#64748b;  
@@ -8,8 +9,15 @@
   --border:#e5e7eb;  
   --soft:#f1f5f9;  
   
+  /* BLUE (Primary) */  
   --accent:#2563eb;  
+  
+  /* GREEN / TEAL (Secondary) */  
+  --accentAlt:#14b8a6;  
+  
+  /* Soft backgrounds */  
   --accentSoft:#eef2ff;  
+  --accentAltSoft:#ecfdf5;  
   
   --shadow: 0 18px 36px rgba(2,6,23,.08);  
   --shadow2: 0 12px 26px rgba(2,6,23,.06);  
@@ -66,13 +74,13 @@ a:hover{text-decoration:underline}
 .nav-cta:hover{opacity:.95;text-decoration:none}
 
 /* HERO */
-.hero{
-  padding:62px 0 22px;
-  background:
-    radial-gradient(900px 520px at 12% -10%, rgba(37,99,235,.10), transparent 60%),
-    radial-gradient(900px 520px at 92% 10%, rgba(37,99,235,.08), transparent 55%),
-    #fff;
-}
+.hero{  
+  padding:62px 0 22px;  
+  background:  
+    radial-gradient(900px 520px at 10% -10%, rgba(37,99,235,.12), transparent 60%),  
+    radial-gradient(900px 520px at 90% 10%, rgba(20,184,166,.10), transparent 55%),  
+    #ffffff;  
+}  
 .hero-wrap{
   display:grid;
   grid-template-columns: 1.25fr .85fr;
