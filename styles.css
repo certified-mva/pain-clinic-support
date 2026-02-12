@@ -517,7 +517,12 @@ h2{
 }  
   
 @media (max-width: 620px){  
-  ...  
+  
+  /* Hide "Why Outsource" link on mobile only */  
+  .nav-links a[href="#why-outsource"]{  
+    display: none !important;  
+  }  
+  
 }  
   
 /* ================================  
