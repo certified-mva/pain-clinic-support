@@ -636,3 +636,38 @@ h2{
     min-height: auto;  
   }  
 }  
+/* =========================================  
+   MOBILE TEXT-ONLY HEADER  
+   (NO VM LOGO / NO GET IN TOUCH)  
+   ========================================= */  
+  
+@media (max-width: 620px){  
+  
+  /* Hide VM / Brand */  
+  .brand,  
+  .brand-mark,  
+  .brand-name{  
+    display: none !important;  
+  }  
+  
+  /* Hide CTA button */  
+  .nav-cta{  
+    display: none !important;  
+  }  
+  
+  /* Center the navigation */  
+  .nav{  
+    justify-content: center;  
+    padding: 10px 0;  
+  }  
+  
+  .nav-links{  
+    gap: 12px;  
+  }  
+  
+  .nav-links a{  
+    font-size: 13px;  
+    font-weight: 700;  
+    white-space: nowrap;  
+  }  
+}  
