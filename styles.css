@@ -540,3 +540,49 @@ h2{
     border-radius: 10px;  
   }  
 }  
+/* existing styles above */  
+@media (max-width: 768px){  
+  ...  
+}  
+  
+@media (max-width: 620px){  
+  ...  
+}  
+  
+/* ================================  
+   EXTRA COMPACT HEADER — VERY SMALL PHONES  
+   ================================ */  
+  
+@media (max-width: 480px){  
+  
+  .nav{  
+    padding: 8px 0;  
+    gap: 6px;  
+  }  
+  
+  .brand{  
+    gap: 6px;  
+  }  
+  
+  .brand-mark{  
+    width: 34px;  
+    height: 34px;  
+    font-size: 13px;  
+    border-radius: 10px;  
+  }  
+  
+  .nav-links{  
+    gap: 8px;  
+  }  
+  
+  .nav-links a{  
+    font-size: 11px;  
+    letter-spacing: .1px;  
+  }  
+  
+  .nav-cta{  
+    padding: 6px 8px;  
+    font-size: 11px;  
+    border-radius: 10px;  
+  }  
+}  
