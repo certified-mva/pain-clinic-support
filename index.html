@@ -589,5 +589,83 @@ to ensure timely follow-ups and payer communication.
   <span class="modal-close">&times;</span>
   <img id="modalImage" alt="Expanded profile photo" />
 </div>
+          <script>
+  // List of elements to track with Google Analytics
+  <script>
+  // List of elements to track with Google Analytics
+  <script>
+  // List of elements to track with Google Analytics
+  <!-- PROFILE CARDS / Buttons Section -->
+<div class="profile-card reveal">
+  <div class="profile-top">
+    <img
+      class="avatar"
+      src="profile-new.png"
+      alt="Van profile photo"
+      onclick="openImageModal(this.src)"
+    />
+    <div class="profile-text">
+      <h2>Vanvan Matunhay</h2>
+      <p class="role">Certified Medical Virtual Assistant</p>
+      <p class="subrole">Prior Authorization Specialist</p>
+    </div>
+  </div>
+
+  <div class="profile-cta">
+    <!-- Resume & Certificates -->
+    <a id="resumeBtn" class="btn small" href="vanvanmatunhay-resume.pdf" target="_blank" rel="noopener">Resume</a>
+    <a id="coeBtn" class="btn small" href="Concentrix_COE.pdf" target="_blank" rel="noopener">COE</a>
+    <a id="hipaaBtn" class="btn small" href="HIPAA%20-%20Health%20Insurance%20Portability%20and%20Accountability%20Act.pdf" target="_blank" rel="noopener">HIPAA Certificate</a>
+    <a id="medvaBtn" class="btn small" href="MVA_Certificate.png" target="_blank" rel="noopener">Med-VA Certificate</a>
+    <a id="complianceBtn" class="btn small" href="First Healthcare Compliance_Certificates.pdf" target="_blank" rel="noopener">Compliance Certificates</a>
+
+    <!-- Hire Me / Contact CTA -->
+    <a id="hireBtn" class="btn primary full" href="mailto:vanvanmatunhay@gmail.com?subject=Prior%20Authorization%20Support%20Inquiry&body=Hi%20Van%2C%0A%0AI%27m%20reaching%20out%20about%20prior%20authorization%20support%20for%20our%20clinic.%0A%0AClinic%20Name%3A%20%0APayers%3A%20%0ATypical%20Procedures%3A%20%0AEHR%3A%20%0APreferred%20contact%20time%3A%20%0A%0AThanks%2C%0A">Send an Email</a>
+  </div>
+
+  <div class="profile-links">
+    <a id="contactEmail" class="link-chip" href="mailto:vanvanmatunhay@gmail.com?subject=Prior%20Authorization%20Support%20Inquiry"><i class="fa-solid fa-envelope"></i> Email</a>
+    <a id="contactWhatsApp" class="link-chip" href="https://wa.me/639917706058" target="_blank" rel="noopener"><i class="fa-brands fa-whatsapp"></i> WhatsApp</a>
+    <a id="contactLinkedIn" class="link-chip" href="https://www.linkedin.com/in/vanvan-matunhay-27665934a/" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin-in"></i> LinkedIn</a>
+  </div>
+
+  <div class="profile-info">
+    <div class="info-row">
+      <span>Location</span>
+      <strong>Cebu City, Philippines</strong>
+    </div>
+    <div class="info-row">
+      <span>Availability</span>
+      <strong>Remote | US Healthcare</strong>
+    </div>
+  </div>
+</div>
+
+<!-- ✅ Google Analytics Button Tracking Script -->
+<script>
+  const trackButtons = [
+    { selector: "#resumeBtn", label: "Resume Download" },
+    { selector: "#coeBtn", label: "COE Download" },
+    { selector: "#hipaaBtn", label: "HIPAA Certificate Download" },
+    { selector: "#medvaBtn", label: "Med-VA Certificate Download" },
+    { selector: "#complianceBtn", label: "Compliance Certificates Download" },
+    { selector: "#hireBtn", label: "Hire Me Button" },
+    { selector: "#contactEmail", label: "Email Click" },
+    { selector: "#contactWhatsApp", label: "WhatsApp Click" },
+    { selector: "#contactLinkedIn", label: "LinkedIn Click" }
+  ];
+
+  trackButtons.forEach(item => {
+    const el = document.querySelector(item.selector);
+    if(el){
+      el.addEventListener("click", function() {
+        gtag('event', 'click', {
+          'event_category': 'Engagement',
+          'event_label': item.label
+        });
+      });
+    }
+  });
+</script>
 </body>
 </html>
